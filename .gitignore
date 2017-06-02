@@ -2,6 +2,7 @@
 secrets.py
 *.db
 db_repository/
+output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
